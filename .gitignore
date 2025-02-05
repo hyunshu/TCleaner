@@ -1,0 +1,42 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore output and generated files
+*.vtt
+*.txt
+*.csv
+
+# Ignore test results and coverage reports
+coverage/
+*.cover
+*.cov
+*.lcov
+
+# Ignore Python package files
+*.egg-info/
+dist/
+build/
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
