@@ -6,6 +6,7 @@
 ## 📌 Features (Planned)
 - Process Zoom transcript files (`.vtt`, `.txt`)
 - Format output as:
+
 [00:00:05]
 John Doe: Hello everyone!
 
